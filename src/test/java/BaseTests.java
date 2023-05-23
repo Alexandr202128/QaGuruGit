@@ -6,6 +6,6 @@ public class BaseTests {
     public void check() {
         int i = 2;
         Assertions.assertEquals(i, 2);
-        System.out.println("Helladso");
+        System.out.println("Hqweelladso");
     }
 }
