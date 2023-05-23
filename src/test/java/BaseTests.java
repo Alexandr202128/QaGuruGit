@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 public class BaseTests {
     @Test
     public void check() {
-        Assertions.assertEquals(2, 2);
+        int i = 2;
+        Assertions.assertEquals(i, 2);
     }
 }
